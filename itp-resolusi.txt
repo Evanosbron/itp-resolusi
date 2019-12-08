@@ -2,3 +2,4 @@ ITP RESOLUSI
 - Penambahan mahasiswa hingga 500 orang
 - Penambahan alat laboratorium
 - Penambahan tenaga pengajar
+- Penambahan gaji
